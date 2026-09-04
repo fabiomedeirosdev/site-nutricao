@@ -1,0 +1,66 @@
+-------------------------------------------------------------
+site-nutricao/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+│   ├── nutricionista.jpg
+│   ├── alimentos.jpg
+│   └── logo.svg
+│
+└── README.md
+
+------------------------------------------------------------
+Header
+Hero
+Sobre a nutricionista
+Serviços
+Como funciona
+Depoimentos
+CTA
+Contato
+Footer
+Responsividade para celular
+Animações
+SEO básico
+Favicon
+WhatsApp
+Formulário/contato
+Publicação na HostGator
+GitHub para versionamento
+
+
+------------------------------------------------------------
+CRIAR ESTRUTURA PELO TERMINAL
+
+mkdir css, js, images
+New-Item index.html -ItemType File
+New-Item css\style.css -ItemType File
+New-Item js\script.js -ItemType File
+New-Item README.md -ItemType File
+
+------------------------------------------------------------
+VS CODE
+   │
+   ▼
+GIT INIT
+   │
+   ▼
+PRIMEIRO COMMIT
+   │
+   ▼
+GITHUB
+   │
+   ▼
+HOSTGATOR
+   │
+   ▼
+SEU DOMÍNIO
+
+
+
+
+
