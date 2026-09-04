@@ -1,3 +1,4 @@
+---
 deployment:
   tasks:
     - export DEPLOYPATH=/home1/fabi4954/comfortable-yellow-gorilla.192-185-222-24.cpanel.site/
