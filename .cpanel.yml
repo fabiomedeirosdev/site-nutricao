@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home1/fabi4954/comfortable-yellow-gorilla.192-185-222-24.cpanel.site/
+    - export DEPLOYPATH=/home1/fabi4954/fabiothomaz1788580650000.1710182.meusitehostgator.com.br/
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp -R css $DEPLOYPATH
     - /bin/cp -R js $DEPLOYPATH
